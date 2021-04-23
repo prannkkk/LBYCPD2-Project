@@ -23,11 +23,11 @@ Things you need before running the program
 * Multi-core CPU
 ```
 ### Installing the program
-This is a stey-by-step guide in gaining access of the program
-- Go to the Github repository link of the software
-- Download the zip file provided in the link
-- Extract the files then find the main class file
-- Run the program
+This is a step-by-step guide in gaining access of the program
+1. Go to the Github repository link of the software
+2. Download the zip file provided in the link
+3. Extract the files then find the main class file
+4. Run the program
 
 ### Running the program
 This is a step-by-step guide for running the program
