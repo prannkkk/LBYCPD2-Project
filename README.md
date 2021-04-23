@@ -23,11 +23,14 @@ Things you need before running the program
 * Multi-core CPU
 ```
 ### Installing the program
+This is a stey-by-step guide in gaining access of the program
 - Go to the Github repository link of the software
-- 
+- Download the zip file provided in the link
+- Extract the files then find the main class file
+- Run the program
 
 ### Running the program
-Below are the steps for running the program
+This is a step-by-step guide for running the program
 
 1. Open Java programming language or any good online Java compilers to run the program. Paste the code there.
 2. The user will need to log-in otherwise, registration will be required. 
